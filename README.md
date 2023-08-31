@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rafsamins
-- 👀 I’m interested in creating bots and scripts to automate daily tasks and create modern solutions to daily problems.
-- 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking to collaborate on any project that I could offer help to and give me more exposure on how programming as a team works. 
+- 👋 Hi, I am Samin Chowdhury.
+- 👀 I am interested in learning and building automation, cybersecurity and financial technology through code.
+- 🌱 I an currently looking for internships to help bolster my experience and give me a platform to expand the way I program.
 - 📫 You can reach me at chowdhursamin@gmail.com or discord at rafsamins#9250. 
 
 <!---

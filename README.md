@@ -1,6 +1,7 @@
-- 👋 Hi, I am Samin Chowdhury, a junior at Queens College, majoring in Computer Science and will be graduating May 2026.
+- 👋 Hi, I am Samin Chowdhury, a junior at Queens College, majoring in Computer Science and graduating in May 2026.
+- 💼 Working in JPMC and developing an ML model to accurately predict home value for homes worth more than $1M.
+- 💼 I am available for SWE and AI/ML internships during Summer 2025.
 - 💻 Currently, I am learning more about AI and automation and building ML models and financial security technology.
-- 💼 I am open for SWE and AI/ML internships; any referrals or invitations are gladly accepted.
 - 👥 Connect and reach out to me on LinkedIn ✨: https://www.linkedin.com/in/saminfchowdhury/
 - 📫 My email is chowdhursamin@gmail.com or on discord at samincho#9250. 
 

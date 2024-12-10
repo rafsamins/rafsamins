@@ -4,7 +4,7 @@
 - 💻 Currently, I am learning more about AI and automation and building ML models and financial security technology.
 - JP Morgan Chase Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for JPMC for over 3 months! (https://github.com/shreyaisharani/JPMC-5)
 - 👥 Connect and reach out to me on LinkedIn ✨: https://www.linkedin.com/in/saminfchowdhury/
-- 📫 My email is chowdhursamin@gmail.com or on discord at samincho#9250. 
+- 📫 My email is saminfchowdhury@gmail.com or on discord at samincho#9250. 
 
 <!---
 rafsamins/rafsamins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

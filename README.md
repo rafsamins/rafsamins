@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samin Chowdhury</h1>
 <h3 align="center">A CS student focusing on ML/AI models and operations.</h3>
 
-- 📫 How to reach me **saminfchowdhury@gmail.com**
+- 📫 **saminfchowdhury@gmail.com**
 
-- ⚡ Fun fact **I play D3 basketball and love to bake.**
+- ⚡ **I love all things basketball, food and muay thai related.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
